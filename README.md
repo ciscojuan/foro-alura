@@ -52,6 +52,6 @@ Las siguientes son las dependencias utilizadas en el proyecto:
 
 
 >Challenge realizado durante el bootcamp de Desarrollador Web Backend con Java y Spring Boot de ALURA LATAM 
-<p class="center">
+<p align="center">
 <img src="https://avatars.githubusercontent.com/u/10947412?s=400&u=d64bd02694caa5410207b87e8b667ec653a96a0d&v=4" alt="Ciscojuan github profile" border="0">
 </p>
