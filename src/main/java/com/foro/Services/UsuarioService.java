@@ -37,6 +37,9 @@ public class UsuarioService implements IUsuarioService {
 	@Transactional
 	@Override
 	public Usuario addUsuario(Usuario usuario) {
+		// Hash the password BEFORE setting it in the Usuario object
+        String hashedPassword = BCrypt.hashpw(usuario.getPassword(), BCrypt.gensalt());
+        usuario.setPassword(hashedPassword); // Now set the hashed password
 		return repository.save(usuario);
 
 	}
