@@ -1,6 +1,7 @@
 # <p><center>Foro-Alura</center></p>
 
 ![Java header image](https://github.com/marco-sis/Challenge-ForoHub/raw/master/img/java.png)
+
 ## Descripcion del Proyecto
 Foro-Alura es un plataforma web para gestionar un foro de discusiones. Permite a los usuarios registrarse para crear preguntas, dar respuestas a preguntas de otros usuarios con tal de crear comunidad  y hacer la plataforma interactiva. La aplicacion tambien permite al usuario de acuerdo con su perfil (moderator, user_passive, active_user),  borrar, actualizar y eliminar preguntas. Asi como las respuestas utilizando  ***tokens JWT*** en las cabeceras de la pagina para dar ***Autenticacion, Autorizacion y Auitoria***  ***(AAA)***  en la plataforma. La aplicación  se desarrolló como parte de la formación en Oracle Next Education (ONE) y Alura Latam, utilizando Java, framework Spring Boot, MySQL.
 
@@ -45,6 +46,6 @@ Las siguientes son las dependencias utilizadas en el proyecto:
 
 
 ## Diagrama Entidad - Relacion
-<center><a href="https://ibb.co/fSjVtQS"><img src="https://i.ibb.co/9vQm2Gv/Screenshot-from-2024-07-09-12-39-29.png" alt="Screenshot-from-2024-07-09-12-39-29" border="0"></a></center>
-
+<a href="https://ibb.co/fSjVtQS"><img src="https://i.ibb.co/9vQm2Gv/Screenshot-from-2024-07-09-12-39-29.png" alt="Screenshot-from-2024-07-09-12-39-29" border="0"></a>
+![Ciscojuan github profile](https://avatars.githubusercontent.com/u/10947412?s=400&u=d64bd02694caa5410207b87e8b667ec653a96a0d&v=4)
 >Challenge realizado durante el bootcamp de Desarrollador Web Backend con Java y Spring Boot de ALURA LATAM 
