@@ -50,9 +50,8 @@ Las siguientes son las dependencias utilizadas en el proyecto:
 <a href="https://ibb.co/fSjVtQS"><img src="https://i.ibb.co/9vQm2Gv/Screenshot-from-2024-07-09-12-39-29.png" alt="Screenshot-from-2024-07-09-12-39-29" border="0"></a>
 </p>
 
-<p class="center">
-![Ciscojuan github profile]()
->Challenge realizado durante el bootcamp de Desarrollador Web Backend con Java y Spring Boot de ALURA LATAM 
 
+>Challenge realizado durante el bootcamp de Desarrollador Web Backend con Java y Spring Boot de ALURA LATAM 
+<p class="center">
 <img src="https://avatars.githubusercontent.com/u/10947412?s=400&u=d64bd02694caa5410207b87e8b667ec653a96a0d&v=4" alt="Ciscojuan github profile" border="0">
 </p>
